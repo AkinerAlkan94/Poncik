@@ -1,5 +1,7 @@
 # Poncik
 
-This repository is an official repository for the Poncik on Solana Chain.
+![Poncik](/Logo256.png?raw=true "Employee Data title")
 
-Created the token on behalf of my lovely cat :)
+This repository serves as the official repository for Poncik on the Solana Chain. 
+
+The token has been created with utmost affection on behalf of my cherished feline companion.
